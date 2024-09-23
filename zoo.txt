@@ -1,1 +1,10 @@
-zoo graphics
+Horizon graphs
+Box and whiskers plot
+stem and leaf plots
+scatter plot matrix
+pararell coordinates
+cloropleth maps
+Flow maps
+cartograms
+enclosure diagrams
+graduated symbol maps
